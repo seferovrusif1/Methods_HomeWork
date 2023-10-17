@@ -1,0 +1,14 @@
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\bin\Debug\net6.0\Methods_HomeWork.exe
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\bin\Debug\net6.0\Methods_HomeWork.deps.json
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\bin\Debug\net6.0\Methods_HomeWork.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\bin\Debug\net6.0\Methods_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\bin\Debug\net6.0\Methods_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\Methods_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\Methods_HomeWork.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\Methods_HomeWork.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\Methods_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\Methods_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\refint\Methods_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\Methods_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\Methods_HomeWork.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\Methods_HomeWork\Methods_HomeWork\obj\Debug\net6.0\ref\Methods_HomeWork.dll
